@@ -1,8 +1,6 @@
 # <p align="center">C#/.NET/Front-End Developer - 6.00/6.00<p>
 
-<a href="https://softuni.bg" rel="Courses">![SoftUni logo][logo]</a>
-
-[logo]: http://innovationstarterbox.bg/wp-content/uploads/2016/05/Softuni_logo_trasparent.png "Software University Logo"
+<a href="https://softuni.bg/trainings/courses" rel="Courses"><img src="https://softuni.bg/content/images/svg-logos/software-university-logo.svg?sanitize=true" alt="Software University Logo"></a>
 
 <br/>
 <br/>
