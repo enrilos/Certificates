@@ -3,8 +3,6 @@
 <a href="https://softuni.bg/trainings/courses" rel="Courses"><img src="https://softuni.bg/content/images/svg-logos/software-university-logo.svg?sanitize=true" alt="Software University Logo"></a>
 
 <br/>
-<br/>
-<br/>
 
 <h2>Certificates</h2>
 
